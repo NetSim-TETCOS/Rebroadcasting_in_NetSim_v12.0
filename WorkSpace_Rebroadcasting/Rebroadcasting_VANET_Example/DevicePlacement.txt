@@ -1,0 +1,10 @@
+#Device Placement File
+Env length = 1000.0
+Step = 0.4
+Simulation time = 100
+Number of device placed = 4
+#Device_Number (X-Pos, Y-Pos)
+1 Vehicle_1 (306.4498974482717, 498.35)
+2 Vehicle_2 (995.2638005390836, 307.06619946091644)
+3 Vehicle_3 (793.5501025517283, 101.65)
+4 Vehicle_4 (104.73619946091644, 292.93380053908356)
